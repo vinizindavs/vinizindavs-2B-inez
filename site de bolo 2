@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang = "pt-br">           
+           <head>
+           <meta charset="uft=8">
+           <meta name="viewport" content="width=device-width,initial-scale=1,0">
+           <title> Bolo de chololate fofinho </title>
+      <style> 
+              body{font-family:cursive; 
+                  color:purple;
+                   font-size:30px;
+                   background-color:pink}
+        </style>
+ </head>
+      <body>
+        <h1> BOLO DE CHOCOLATE </h1>
+       <ol type="1" start+"1"
+        <p> 2 xicaras de farinha </p>
+        <p> 1 xicara de leite </p>
+        <p> 1 colher de fermento</p>                
+        <p> 6 ovos</p>
+        <p> 6 colheres de achocolatado</p>
+        <p> 2 colher de mantega</p>
+        <p> 2 xicaras de açucar </p>
+       </ol>
+ </body> 
+ </html>
